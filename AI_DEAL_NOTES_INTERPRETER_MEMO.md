@@ -127,5 +127,3 @@ If this were a real feature, I'd track:
 **Step 5: Confidence improvement loop.** After each settlement is finalized, compare what the interpreter extracted against what Mariana confirmed or corrected. Feed that signal back to improve the prompt or the parsing heuristics over time.
 
 ---
-
-*Built as part of the Applied AI PM interview case study for Greenroom.*
