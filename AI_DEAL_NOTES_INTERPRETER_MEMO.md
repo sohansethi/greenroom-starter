@@ -1,9 +1,6 @@
 # Making Deal Notes Interpretable at 2 A.M.
 
-**Feature:** AI Deal Notes Interpreter
-**Context:** Settlement workflow at The Crescent, Nashville (650-cap independent venue)
-**Persona:** Mariana, lead booker
-
+**Feature: Name** AI Deal Notes Interpreter
 ---
 
 ## 1. The Slice I Chose
