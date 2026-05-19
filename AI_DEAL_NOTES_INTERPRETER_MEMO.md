@@ -1,6 +1,6 @@
 # Making Deal Notes Interpretable at 2 A.M.
 
-**Feature: Name** AI Deal Notes Interpreter
+**Feature Name:** AI Deal Notes Interpreter
 ---
 
 ## 1. The Slice I Chose
